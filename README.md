@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jennings-fairchild/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>&nbsp;
   <a href="https://dev.to/jenningsf/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/dev.to-323330?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;
   <a href="mailto:jenningsf@protonmail.com" target="_blank"><img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-323330?style=for-the-badge&logo=protonmail&logoColor=8B89CC"></a>&nbsp;
-  <a href"https://t.me/jenningsf" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>&nbsp;
+  <a href="https://t.me/jenningsf/" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>&nbsp;
 </p>
 <p>I'm a US-based developed (CST) who is learning the ins and outs of web development, refreshing myself on OOP, and dabbling in machine learning, security, and DevOps. Also interested in hiking ⛰ learning piano 🎹 aviation ✈ and gaming 🎮</p>
 <p>Feel free to reach out! 👍</p>
