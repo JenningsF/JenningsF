@@ -1,35 +1,11 @@
-<p>
-  <h1 align="center">👋 Howdy! I’m Jennings</h1>
-</p>
+## 👋 Howdy! I’m Jennings
 
-<!-- <p align="center">
-  <a href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=brave&logoColor=white"></a>&nbsp;
-  <a href="" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-323330?style=for-the-badge&logo=read-the-docs&logoColor=white"></a>&nbsp;
-</p> -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/jennings-fairchild/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>&nbsp;
-  <a href="https://dev.to/jenningsf/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/dev.to-323330?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;
-  <a href="mailto:jenningsf@protonmail.com" target="_blank"><img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-323330?style=for-the-badge&logo=protonmail&logoColor=8B89CC"></a>&nbsp;
-  <a href="https://t.me/jenningsf/" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>&nbsp;
-</p>
-<p>I'm a US-based (CST) Software Engineer, lifelong learner, and problem solver. Away from the keyboard I enjoy &#x1f4d6; reading &#x1f3b9;
-				learning piano &#x1f3cb; weightlifting and &#x1f413; homesteading with my family.
-<p>Feel free to reach out! 👍</p>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/jenningsf/)
+[![Email Badge](https://img.shields.io/badge/ProtonMail-323330?style=for-the-badge&logo=protonmail&logoColor=8B89CC)](mailto:jenningsf@protonmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/jenningsf/)
 
-## 🛠️ Languages and Tools 
+- I'm a US-based (CST) IT Professional, Software Engineer, and lifelong learner. Currently I am an IT Project Manager with [Cloud Ingenuity](https://www.cloudingenuity.com/).
+- Currently I am working on setting up external access for my homelab via Traefik and optimizing via Ansible.
+- Away from the keyboard I enjoy &#x1f4d6; reading &#x1f3b9; learning piano &#x1f3cb; weightlifting and &#x1f413; homesteading with my family.
 
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-323330?style=flat-square&logo=html5&logoColor=E34F26"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-323330?style=flat-square&logo=css3&logoColor=1572B6"/></a>
-<a href="https://python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-323330.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDUiIGhlaWdodD0iNTUiIHZpZXdCb3g9IjAgMCA0NSA1NSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzFfMikiPgo8cGF0aCBkPSJNMjIuMjMyMSAwLjAwMDM3MjEzOEMyMC4zNzY1IDAuMDA4OTkzOTMgMTguNjA0NSAwLjE2NzI0NSAxNy4wNDUzIDAuNDQzMTQxQzEyLjQ1MjIgMS4yNTQ2IDExLjYxODMgMi45NTMwNSAxMS42MTgzIDYuMDg1MjhWMTAuMjIySDIyLjQ3MjRWMTEuNjAwOUgxMS42MTgzSDcuNTQ0NzlDNC4zOTAyNyAxMS42MDA5IDEuNjI4MDggMTMuNDk3IDAuNzY0MTA2IDE3LjEwMzlDLTAuMjMyNDggMjEuMjM4MyAtMC4yNzY2ODQgMjMuODE4MiAwLjc2NDEwNiAyOC4xMzUxQzEuNTM1NjYgMzEuMzQ4NSAzLjM3ODIzIDMzLjYzODEgNi41MzI3NSAzMy42MzgxSDEwLjI2NDdWMjguNjc5MUMxMC4yNjQ3IDI1LjA5NjUgMTMuMzY0NCAyMS45MzY0IDE3LjA0NTMgMjEuOTM2NEgyNy44ODY4QzMwLjkwNDcgMjEuOTM2NCAzMy4zMTM5IDE5LjQ1MTYgMzMuMzEzOSAxNi40MjA4VjYuMDg1MjhDMzMuMzEzOSAzLjE0Mzc0IDMwLjgzMjQgMC45MzQwNzEgMjcuODg2OCAwLjQ0MzE0MUMyNi4wMjIzIDAuMTMyNzU3IDI0LjA4NzYgLTAuMDA4MjQ5NzggMjIuMjMyMSAwLjAwMDM3MjEzOFpNMTYuMzYyMiAzLjMyNzQ2QzE3LjQ4MzQgMy4zMjc0NiAxOC4zOTg5IDQuMjU3OTkgMTguMzk4OSA1LjQwMjE1QzE4LjM5ODkgNi41NDIyNSAxNy40ODM0IDcuNDY0MTggMTYuMzYyMiA3LjQ2NDE4QzE1LjIzNyA3LjQ2NDE4IDE0LjMyNTUgNi41NDIyNSAxNC4zMjU1IDUuNDAyMTVDMTQuMzI1NSA0LjI1Nzk5IDE1LjIzNyAzLjMyNzQ2IDE2LjM2MjIgMy4zMjc0NloiIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcl8xXzIpIi8+CjxwYXRoIGQ9Ik0zNC42Njc1IDExLjYwMDlWMTYuNDIwOEMzNC42Njc1IDIwLjE1NzUgMzEuNDk5NSAyMy4zMDI2IDI3Ljg4NjggMjMuMzAyNkgxNy4wNDUzQzE0LjA3NTcgMjMuMzAyNiAxMS42MTgzIDI1Ljg0NDMgMTEuNjE4MyAyOC44MTgzVjM5LjE1MzhDMTEuNjE4MyA0Mi4wOTUzIDE0LjE3NjEgNDMuODI1NSAxNy4wNDUzIDQ0LjY2OTRDMjAuNDgxMiA0NS42Nzk3IDIzLjc3NTkgNDUuODYyMiAyNy44ODY4IDQ0LjY2OTRDMzAuNjE5NCA0My44NzgyIDMzLjMxMzkgNDIuMjg2IDMzLjMxMzkgMzkuMTUzOFYzNS4wMTdIMjIuNDcyNFYzMy42MzgxSDMzLjMxMzlIMzguNzQxQzQxLjg5NTUgMzMuNjM4MSA0My4wNzEgMzEuNDM3OCA0NC4xNjgxIDI4LjEzNTFDNDUuMzAxMyAyNC43MzUxIDQ1LjI1MzEgMjEuNDY1NSA0NC4xNjgxIDE3LjEwMzlDNDMuMzg4NSAxMy45NjM1IDQxLjg5OTUgMTEuNjAwOSAzOC43NDEgMTEuNjAwOUgzNC42Njc1Wk0yOC41NyAzNy43NzQ5QzI5LjY5NTIgMzcuNzc0OSAzMC42MDY3IDM4LjY5NjggMzAuNjA2NyAzOS44MzY5QzMwLjYwNjcgNDAuOTgxIDI5LjY5NTIgNDEuOTExNiAyOC41NyA0MS45MTE2QzI3LjQ0ODggNDEuOTExNiAyNi41MzMyIDQwLjk4MSAyNi41MzMyIDM5LjgzNjlDMjYuNTMzMiAzOC42OTY4IDI3LjQ0ODggMzcuNzc0OSAyOC41NyAzNy43NzQ5WiIgZmlsbD0idXJsKCNwYWludDFfbGluZWFyXzFfMikiLz4KPHBhdGggb3BhY2l0eT0iMC40NDM4MiIgZD0iTTIyLjU5NTYgNTQuNTE1OUMzMC42Mjg4IDU0LjUxNTkgMzcuMTQxIDUzLjI1MzIgMzcuMTQxIDUxLjY5NTRDMzcuMTQxIDUwLjEzNzcgMzAuNjI4OCA0OC44NzUgMjIuNTk1NiA0OC44NzVDMTQuNTYyMyA0OC44NzUgOC4wNTAxIDUwLjEzNzcgOC4wNTAxIDUxLjY5NTRDOC4wNTAxIDUzLjI1MzIgMTQuNTYyMyA1NC41MTU5IDIyLjU5NTYgNTQuNTE1OVoiIGZpbGw9InVybCgjcGFpbnQyX3JhZGlhbF8xXzIpIi8+CjwvZz4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhcl8xXzIiIHgxPSItMS4zNTIyZS0wNyIgeTE9Ii0xLjE3NDYyZS0wNyIgeDI9IjI1LjAyODUiIHkyPSIyMS4zMjc3IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiM1QTlGRDQiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzA2OTk4Ii8+CjwvbGluZWFyR3JhZGllbnQ+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQxX2xpbmVhcl8xXzIiIHgxPSIyOC4zMDkxIiB5MT0iMzkuNDg5MSIgeDI9IjE5LjMyOTkiIHkyPSIyNi45MDY1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiNGRkQ0M0IiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRkZFODczIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxyYWRpYWxHcmFkaWVudCBpZD0icGFpbnQyX3JhZGlhbF8xXzIiIGN4PSIwIiBjeT0iMCIgcj0iMSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjIuNTk1NiA1MS42OTU0KSByb3RhdGUoLTkwKSBzY2FsZSgyLjgyMDQ5IDEyLjM5NzIpIj4KPHN0b3Agc3RvcC1jb2xvcj0iI0I4QjhCOCIgc3RvcC1vcGFjaXR5PSIwLjQ5ODAzOSIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM3RjdGN0YiIHN0b3Atb3BhY2l0eT0iMCIvPgo8L3JhZGlhbEdyYWRpZW50Pgo8Y2xpcFBhdGggaWQ9ImNsaXAwXzFfMiI+CjxyZWN0IHdpZHRoPSI0NSIgaGVpZ2h0PSI1NC41MTU5IiBmaWxsPSJ3aGl0ZSIvPgo8L2NsaXBQYXRoPgo8L2RlZnM+Cjwvc3ZnPgo="/></a>
-<a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-343A40?style=flat-square&logo=React&logoColor=hex(61DAFB)"/></a>
-<a href="https://nodejs.org/en/" target="_blank"><img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-333333?style=flat-square&logo=Node.js&logoColor=43853d"/></a>
-<a href="https://www.npmjs.com/" target="_blank"><img alt="npm" src="https://img.shields.io/badge/NPM-323330?style=flat-square&logo=npm&logoColor=CB3837"/></a>
-<a href="https://mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=00ED64"/></a>
-<a href="https://expressjs.com/" target="_blank"> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/></a>
-<a href="https://mongoosejs.com/" target="_blank"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-484848?style=flat-square&logo=Mongoose&logoColor=880000"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img alt="Git" src="https://img.shields.io/badge/Git-3E2C00?style=flat-square&logo=git&logoColor=F05032"/></a>
-<a href="https://github.com/" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-444444?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/></a>
-</p>
+### Feel free to reach out! 👍
